@@ -53,7 +53,7 @@ cookies_file_path= "youtube_cookies.txt"
 auth_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzM0MTA1OTA2NCIsInRnX3VzZXJuYW1lIjoiQEFua2l0U2hha3lhIiwiaWF0IjoxNzU1MTU1MDYyfQ.oVk_-J0EucDiL1hLTqxmjqHYPbeUzPQVNyfcrRCLioM"
 
 
-auth_users = [8249656369]
+auth_users = [7062964338]
 
 # Command to authorize a user
 @bot.on_message(filters.command("auth") & filters.private)
